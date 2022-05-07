@@ -21,6 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Wireframe
+![](./my-final-screenshot/wire-frame-sketch.jpg)
+
 
 
 ### Screenshot
