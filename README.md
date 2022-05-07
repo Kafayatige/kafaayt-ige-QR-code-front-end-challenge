@@ -51,9 +51,9 @@ With my understanding of flex box and view-port i was able to add CSS component.
 
 ### What I learned
 
-- during the CSS part, i gained critical understanding of how defining some certain property can restrict another from being effective.
--I gained more critical understanding of how the view-port unit such as vh and vw can affect the layout of your design on different platforms.
-- there was a point i initially used the flex-basis property which restricted my padding-bottom from being effective
+- During the CSS part, I gained critical understanding of how defining some certain property can restrict another from being effective.
+- I gained more critical understanding of how the view-port unit such as "vh and vw" can affect the layout of your design on different platforms.
+- There was a point i initially used the flex-basis property which restricted my padding-bottom from being effective
 - I learnt that there is always room for optimisation in your code
 
 
@@ -83,7 +83,7 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
-- [resource 1](https://youtu.be/ZxKM3DCV2kE) - This helped me recao my understanding of ssome CSS properties.
+- [resource 1](https://youtu.be/ZxKM3DCV2kE) - This helped me recap my understanding of some CSS properties.
 - [ resource 2](https://css-tricks.com/almanac/properties/g/gap/) - This is an amazing article which helped me finally understand gap in flexbox. I'd recommend it to anyone still learning this concept.
 
 
