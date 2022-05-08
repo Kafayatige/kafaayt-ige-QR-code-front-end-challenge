@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![My Design preview for the QR code component coding challenge](./my-final-screenshot/kafayat_desktop_design_screenshot.png)
+![My Design preview for the QR code component coding challenge](./my-final-screenshot/new_screenshot1.png)
 
 ## Welcome! 👋
 # Frontend Mentor - QR code component <!--KAFAYAT IGE--> solution
@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./my-final-screenshot/insepct-on-S8%2B-mobile-design-kafayat-screenshot.png)
-![](./my-final-screenshot/kafayat_desktop_design_screenshot.png)
+![](./my-final-screenshot/new_screenshot1.png)
+![](./my-final-screenshot/mobile2.png)
 
 
 ### Links
