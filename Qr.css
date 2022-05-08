@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -5,16 +6,18 @@
 }
 
 
-.whole{
+body{
     display: flex;
     flex-direction: column;
     align-items: center;
     background :hsl(212, 45%, 89%);
     min-height: 100vh;
-    min-width: 100vw;
+    min-width: 375px;
+    max-width: 1400px;
+    font-size: 10px;
 }
 
-.container{
+.Qr-main{
     background:hsl(0, 0%, 100%);
     width: 300px;
     margin: 100px;
@@ -22,38 +25,40 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
-    padding-bottom: 50px;
-    align-items: center;
+    padding-bottom: 60px;
     }
 
-    
+
 .qr-image{
     border-radius: 10px;
     margin: 20px;
     max-height: 50%;
-    max-width: 90%;
-    
+    max-width: 90%;  
 }
 
-.Bold-text{
+h1{
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
     font-weight:  700;
-    align-self: center;
-    width: 80%;
-    
+    font-size: 1rem; 
 }
 
-.normal-text{
+p{
     font-family: 'Montserrat', sans-serif;
-    align-self: center;
+    text-align: center;
     font-weight: 400;
-    font-size: 10px;
+    font-size: 0.60rem;
 }
 
 span{
-    display: block
+    display: block;
+    text-align: center;
 }
    
-p{
+#footer{
+    bottom: 10px;
+    width:100%;
+    position: fixed;
     text-align: center;
+
 }
