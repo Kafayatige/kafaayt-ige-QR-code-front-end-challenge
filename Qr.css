@@ -9,12 +9,14 @@
 body{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     background :hsl(212, 45%, 89%);
     min-height: 100vh;
     min-width: 375px;
     max-width: 1400px;
     font-size: 10px;
+    margin: auto;
 }
 
 .Qr-main{
