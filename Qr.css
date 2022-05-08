@@ -17,6 +17,7 @@ body{
     max-width: 1400px;
     font-size: 10px;
     margin: auto;
+    position: relative;
 }
 
 .Qr-main{
@@ -58,7 +59,7 @@ span{
 }
    
 #footer{
-    bottom: 10px;
+    bottom: 0;
     width:100%;
     position: fixed;
     text-align: center;
